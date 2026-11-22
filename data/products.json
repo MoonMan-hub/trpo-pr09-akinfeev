@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Книга",
+    "price": 900,
+    "category_id": 1
+  },
+  {
+    "id": 2,
+    "name": "Курс",
+    "price": 2500,
+    "category_id": 2
+  },
+  {
+    "id": 3,
+    "name": "Мышь",
+    "price": 1800,
+    "category_id": 4
+  },
+  {
+    "id": 4,
+    "name": "Клавиатура",
+    "price": 4300,
+    "category_id": 4
+  }
+]
